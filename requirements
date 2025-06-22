@@ -1,0 +1,5 @@
+fastapi==0.110.0
+uvicorn==0.30.0
+numpy==1.24.3
+tensorflow==2.15.0
+# ... plus anything else your app needs
